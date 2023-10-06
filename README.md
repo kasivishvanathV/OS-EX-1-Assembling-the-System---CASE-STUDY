@@ -10,7 +10,7 @@ To Assemble the Computer System
 
 ### Step 1
 
-![](1.1(1).png)
+![](1.1.png)
 
 Unpack the monitor and computer case from the box. Remove any
 plastic covering or protective tape. Place the monitor and computer case
