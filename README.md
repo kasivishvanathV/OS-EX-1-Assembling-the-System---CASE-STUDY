@@ -1,10 +1,12 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
-AIM:
+## AIM:
+To Assemble the Computer System
 
-STEPS:
-
-PROCEDURE:
+## STEPS:
 
 
-RESULT:
+## PROCEDURE:
+
+
+## RESULT:
